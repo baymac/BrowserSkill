@@ -432,3 +432,7 @@ Thank you to everyone who contributes code, documentation, translations, and fee
 ## License
 
 [MIT](LICENSE)
+
+## Daily Canvas fork
+
+This fork is used by Daily Canvas’s lightweight desktop assistant. See the [Daily Canvas integration guide](docs/daily-canvas.md). Browser automation remains compatible with the upstream CLI and extension.
